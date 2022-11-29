@@ -1,4 +1,3 @@
 <?php
+include_once("horus-index.html");
 
-
-echo '<?php include_once("horus-index.html"); ?>';
