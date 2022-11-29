@@ -27,7 +27,7 @@ body {
 }
 
 a {
-    color: #091f3c;
+    color: #3a516d;
     display: inline-block
 }
 
@@ -55,7 +55,7 @@ li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #091f3c;
+    color: #3a516d;
     margin: 0;
     font-weight: 600;
     font-family: rubik, sans-serif;
@@ -241,8 +241,8 @@ label {
 .site-title {
     font-weight: 700;
     text-transform: capitalize;
-    font-size: 50px;
-    color: #091f3c;
+    font-size: 35px;
+    color: #3a516d;
     margin-top: 20px;
     margin-bottom: 0
 }
@@ -659,7 +659,7 @@ label {
         padding: 30px 0;
         font-size: 17px;
         font-weight: 500;
-        color: #091f3c;
+        color: #3a516d;
         text-transform: capitalize
     }
 
@@ -693,7 +693,7 @@ label {
         font-size: 17px;
         font-weight: 500;
         padding: 10px 0 10px 30px;
-        color: #091f3c;
+        color: #3a516d;
         position: relative;
         text-transform: capitalize;
         transition: all .5s ease-in-out
@@ -748,7 +748,7 @@ label {
         width: 45px;
         height: 45px;
         line-height: 45px;
-        color: #091f3c;
+        color: #3a516d;
         display: flex;
         align-items: center;
         justify-content: center
@@ -893,7 +893,7 @@ button.navbar-toggler:focus {
     }
 
     .navbar .nav-item .nav-link {
-        color: #091f3c;
+        color: #3a516d;
         font-weight: 700;
         transition: all .5s ease-in-out
     }
@@ -913,7 +913,7 @@ button.navbar-toggler:focus {
 
     .mobile-menu-link {
         font-size: 20px;
-        color: #091f3c;
+        color: #3a516d;
         font-weight: 500;
         padding-right: 20px;
         margin-bottom: 0;
@@ -926,7 +926,7 @@ button.navbar-toggler:focus {
 
     .navbar-toggler-icon {
         font-size: 25px;
-        color: #091f3c;
+        color: #3a516d;
         font-weight: 500
     }
 
@@ -1170,7 +1170,7 @@ button.navbar-toggler:focus {
 
 .hero-single .hero-content .theme-btn:hover {
     background: #fff;
-    color: #091f3c
+    color: #3a516d
 }
 
 .hero-section .owl-dots {
@@ -1556,7 +1556,7 @@ button.navbar-toggler:focus {
 .feature-content h4 {
     font-size: 24px;
     font-weight: 500;
-    color: #091f3c;
+    color: #3a516d;
     margin-bottom: 20px
 }
 
@@ -1634,7 +1634,7 @@ button.navbar-toggler:focus {
 .service-title a {
     margin-top: 15px;
     margin-bottom: 10px;
-    color: #091f3c
+    color: #3a516d
 }
 
 .service-title a:hover {
@@ -1643,7 +1643,7 @@ button.navbar-toggler:focus {
 
 .service-arrow .service-btn {
     font-weight: 600;
-    color: #091f3c;
+    color: #3a516d;
     transition: all .5s ease-in-out
 }
 
@@ -1663,7 +1663,7 @@ button.navbar-toggler:focus {
 .service-download a {
     border: 2px solid #FE8F01;
     padding: 10px 20px;
-    color: #091f3c;
+    color: #3a516d;
     display: block;
     margin-bottom: 20px;
     font-weight: 600;
@@ -1681,7 +1681,7 @@ button.navbar-toggler:focus {
 }
 
 .service-details h3 {
-    color: #091f3c
+    color: #3a516d
 }
 
 .service-details img {
@@ -1862,7 +1862,7 @@ button.navbar-toggler:focus {
 
 .testimonial-author-info h4 {
     font-size: 20px;
-    color: #091f3c
+    color: #3a516d
 }
 
 .testimonial-author-info p {
@@ -1921,7 +1921,7 @@ button.navbar-toggler:focus {
     padding-top: 5px;
     position: relative;
     padding-left: 50px;
-    color: #091f3c;
+    color: #3a516d;
     margin: 10px 0
 }
 
@@ -2017,7 +2017,8 @@ button.navbar-toggler:focus {
 }
 
 .counter-area {
-    background: #FE8F01;
+    /*background: #FE8F01;*/
+    background: #3a516d;
     position: relative;
     z-index: 1
 }
@@ -2099,7 +2100,7 @@ button.navbar-toggler:focus {
 
 .cta-area .theme-btn {
     margin-top: 30px;
-    background: #091f3c
+    background: #3a516d
 }
 
 .cta-area .theme-btn:hover {
@@ -2189,7 +2190,7 @@ button.navbar-toggler:focus {
 }
 
 .project-link:hover {
-    color: #091f3c
+    color: #3a516d
 }
 
 .project-content:hover .project-link {
@@ -2271,7 +2272,7 @@ button.navbar-toggler:focus {
 
 .new-project-btn {
     background: #fff;
-    color: #091f3c;
+    color: #3a516d;
     border: none;
     padding: 10px 25px;
     border-radius: 50px;
@@ -2280,7 +2281,7 @@ button.navbar-toggler:focus {
 }
 
 .new-project-btn:hover {
-    background: #091f3c;
+    background: #3a516d;
     color: #fff
 }
 
@@ -2327,7 +2328,7 @@ button.navbar-toggler:focus {
     display: inline-block;
     margin-right: 15px;
     position: relative;
-    color: #091f3c
+    color: #3a516d
 }
 
 .blog-item-meta ul li i {
@@ -2369,7 +2370,7 @@ button.navbar-toggler:focus {
 }
 
 .blog-item-info h4 a {
-    color: #091f3c
+    color: #3a516d
 }
 
 .blog-item-info h4 a:hover {
@@ -2418,7 +2419,7 @@ button.navbar-toggler:focus {
 
 .blog-details-title {
     font-size: 34px;
-    color: #091f3c
+    color: #3a516d
 }
 
 .blockqoute {
@@ -2434,7 +2435,7 @@ button.navbar-toggler:focus {
     margin-top: 20px;
     padding-left: 60px;
     position: relative;
-    color: #091f3c
+    color: #3a516d
 }
 
 .blockqoute-author::before {
@@ -2454,7 +2455,7 @@ button.navbar-toggler:focus {
 }
 
 .blog-details-tags h5 {
-    color: #091f3c
+    color: #3a516d
 }
 
 .blog-details-tags ul {
@@ -2465,7 +2466,7 @@ button.navbar-toggler:focus {
 
 .blog-details-tags ul a {
     background: #f5f7fa;
-    color: #091f3c;
+    color: #3a516d;
     padding: 5px 15px;
     border-radius: 8px;
     transition: all .5s ease-in-out
@@ -2519,7 +2520,7 @@ button.navbar-toggler:focus {
 }
 
 .author-social a:hover {
-    color: #091f3c
+    color: #3a516d
 }
 
 .blog-comments {
@@ -2527,7 +2528,7 @@ button.navbar-toggler:focus {
 }
 
 .blog-comments h3 {
-    color: #091f3c
+    color: #3a516d
 }
 
 .blog-comments-wrapper {
@@ -2559,11 +2560,11 @@ button.navbar-toggler:focus {
 }
 
 .blog-comments-content a:hover {
-    color: #091f3c
+    color: #3a516d
 }
 
 .blog-comments-content h5 {
-    color: #091f3c
+    color: #3a516d
 }
 
 .blog-comments-reply {
@@ -2637,7 +2638,7 @@ button.navbar-toggler:focus {
     margin-bottom: 30px;
     position: relative;
     font-size: 25px;
-    color: #091f3c
+    color: #3a516d
 }
 
 .widget .widget-title::before {
@@ -2761,7 +2762,7 @@ button.navbar-toggler:focus {
 
 .widget .tag-list a {
     background: #f5f7fa;
-    color: #091f3c;
+    color: #3a516d;
     padding: 5px 15px;
     margin-bottom: 10px;
     margin-right: 10px;
@@ -2793,7 +2794,7 @@ button.navbar-toggler:focus {
 .contact-form-header h2 {
     font-size: 30px;
     margin-bottom: 10px;
-    color: #091f3c
+    color: #3a516d
 }
 
 .contact-form .form-group {
@@ -2854,7 +2855,7 @@ button.navbar-toggler:focus {
 .contact-info h5 {
     font-size: 22px;
     margin-bottom: 5px;
-    color: #091f3c
+    color: #3a516d
 }
 
 .contact-icon-1 {
@@ -3029,7 +3030,7 @@ button.navbar-toggler:focus {
 }
 
 .team-bio h5 a {
-    color: #091f3c
+    color: #3a516d
 }
 
 .team-bio span {
@@ -3071,7 +3072,7 @@ button.navbar-toggler:focus {
 }
 
 .team-social a:hover {
-    background: #091f3c;
+    background: #3a516d;
     color: #fff
 }
 
@@ -3130,7 +3131,7 @@ button.navbar-toggler:focus {
     background: 0 0;
     font-weight: 700;
     font-size: 20px;
-    color: #091f3c;
+    color: #3a516d;
     box-shadow: none !important
 }
 
@@ -3334,7 +3335,7 @@ body.rtl-mode .price-wrapper {
 }
 
 .login-form .login-footer a:hover {
-    color: #091f3c
+    color: #3a516d
 }
 
 .login-form .form-group {
@@ -3342,7 +3343,7 @@ body.rtl-mode .price-wrapper {
 }
 
 .login-form label {
-    color: #091f3c;
+    color: #3a516d;
     margin-bottom: 5px
 }
 
@@ -3525,7 +3526,7 @@ body.rtl-mode .price-wrapper {
 }
 
 .error-wrapper h1 span {
-    color: #091f3c
+    color: #3a516d
 }
 
 .error-wrapper h2 {
