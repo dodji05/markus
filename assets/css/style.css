@@ -1106,7 +1106,8 @@ button.navbar-toggler:focus {
 }
 
 .hero-single {
-    background: #171718;
+    /*background: #171718;*/
+    background: #e9e8e8;
     padding-top: 120px;
     padding-bottom: 120px;
     background-position: center !important;
@@ -1150,8 +1151,9 @@ button.navbar-toggler:focus {
     color: #FE8F01;
     font-size: 25px;
     position: relative;
-    text-transform: capitalize;
-    font-family: pacifico, cursive
+    /*text-transform: capitalize;*/
+    /*font-family: pacifico, cursive*/
+    font-family:  'neotech-regular', sans-serif;
 }
 
 .hero-single .hero-content p {
@@ -3889,4 +3891,10 @@ body.rtl-mode .price-wrapper {
 
 .home-3 .theme-btn:hover i {
     background: #FE8F01
+}
+
+.sliders {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background: #5c636a;
 }
