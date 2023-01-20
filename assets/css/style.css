@@ -235,7 +235,8 @@ label {
     font-size: 28px;
     color: #FE8F01;
     position: relative;
-    font-family: pacifico, cursive
+    /*font-family: pacifico, cursive*/
+    font-family:  'neotech-regular', sans-serif;
 }
 
 .site-title {
@@ -254,7 +255,8 @@ label {
     font-size: 150px;
     position: absolute;
     transform: translate(-50%, -50%);
-    font-family: pacifico, cursive;
+    /*font-family: pacifico, cursive;*/
+    font-family:  'neotech-regular', sans-serif;
     color: rgba(34, 34, 34, .05)
 }
 
@@ -1107,9 +1109,9 @@ button.navbar-toggler:focus {
 
 .hero-single {
     /*background: #171718;*/
-    background: #e9e8e8;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    background: #f5f6fa;
+    padding-top: 80px;
+    padding-bottom: 80px;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -3843,6 +3845,7 @@ body.rtl-mode .price-wrapper {
 
 .home-2 .hero-single::before {
     background: rgba(0, 0, 0, .7);
+    /*background: rgb(245, 246, 250);*/
     width: 100%
 }
 
