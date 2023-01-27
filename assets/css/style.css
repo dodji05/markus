@@ -1110,8 +1110,8 @@ button.navbar-toggler:focus {
 .hero-single {
     /*background: #171718;*/
     background: #f5f6fa;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -1143,7 +1143,7 @@ button.navbar-toggler:focus {
 
 .hero-single .hero-content .hero-title {
     color: #fff;
-    font-size: 65px;
+    font-size: 47px;
     font-weight: 600;
     margin: 20px 0;
     text-transform: capitalize
@@ -1151,7 +1151,7 @@ button.navbar-toggler:focus {
 
 .hero-single .hero-content .hero-sub-title {
     color: #FE8F01;
-    font-size: 25px;
+    font-size: 27px;
     position: relative;
     /*text-transform: capitalize;*/
     /*font-family: pacifico, cursive*/
@@ -1245,7 +1245,7 @@ button.navbar-toggler:focus {
 
 @media all and (max-width: 1199px) {
     .hero-single .hero-content .hero-title {
-        font-size: 37px
+        font-size: 30px
     }
 
     .hero-slider2.owl-theme .owl-nav .owl-prev, .hero-slider2.owl-theme .owl-nav .owl-next {
@@ -1265,7 +1265,7 @@ button.navbar-toggler:focus {
 
 @media all and (max-width: 991px) {
     .hero-single .hero-content .hero-title {
-        font-size: 35px
+        font-size: 29px
     }
 
     .hero-section .owl-dots {
